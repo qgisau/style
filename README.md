@@ -1,5 +1,11 @@
 # Australian QGIS Styles
 
+## Install
+Use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to add this collection:\
+Settings -> Add repository...:\
+--- Name: Australian QGIS Styles\
+--- URL: https://github.com/qgisau/style.git 
+
 ## Add a new collection
 1. In `metadata.ini` add in your collection metadata. See [here](https://qgis-contribution.github.io/QGIS-ResourceSharing/authoring/creating-metadata.html) for instructions and structure.
    - Use the same name as the collection folder
@@ -20,12 +26,5 @@
     │   ├── svg (optional, containing SVG files)  
     │   ├── symbol (optional, containing symbol definition XML files)  
     │   └── license file (encouraged)  
-
-## Install
-Use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to add this collection:\
-Settings -> Add repository...:\
---- Name: Australian QGIS Styles\
---- URL: https://github.com/qgisau/style.git 
-
 
 Last updated: 3rd April 2024
